@@ -1,0 +1,23 @@
+.B{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    gap:  5rem;
+  }
+  img{
+    width: 15rem;
+    height: 15rem;
+  }
+.asdf{
+  display: flex;
+  flex-wrap: wrap;
+margin: 1rem;
+  align-items: center;
+}
+.BB{
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+margin: 1rem;
+
+}

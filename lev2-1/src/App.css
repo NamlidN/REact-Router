@@ -1,0 +1,6 @@
+.B{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    gap:  5rem;
+  }
